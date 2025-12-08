@@ -69,6 +69,24 @@ cd axiom-agentic-platform
 
 ---
 
+## 📸 Screenshots
+
+See the platform in action: **[Screenshots Gallery](screenshots/)**
+
+<p align="center">
+  <img src="screenshots/01-orchestrator-startup.png" alt="Orchestrator Startup" width="45%">
+  <img src="screenshots/02-system-status.png" alt="System Status" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/03-ui-branding.png" alt="UI Branding" width="45%">
+  <img src="screenshots/05-openai-response.png" alt="OpenAI Response" width="45%">
+</p>
+
+*Add your screenshots to the `screenshots/` folder - see [Screenshot Guide](screenshots/README.md)*
+
+---
+
 ## 📁 Project Structure
 
 ```
